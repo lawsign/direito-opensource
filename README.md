@@ -1,4 +1,4 @@
-# Direito-opensource
+# Direito Open Source
 
 Estamos criando uma série de projetos para criar um Direito mais aberto, compartilhável e acessível a mais pessoas. 
 Nosso objetivo sempre foi democratizar o acesso ao conhecimento em tecnologia para o mundo jurídico, e é através destes projetos que o fazemos. 
