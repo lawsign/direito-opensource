@@ -6,3 +6,8 @@ Nosso objetivo sempre foi democratizar o acesso ao conhecimento em tecnologia pa
 Para isso, temos alguns subprojetos que visam estruturar o direito desta forma. 
 
 - [Contratos.xyz](https://github.com/legalclass/contratos.xyz): Um repositório com boas práticas de automação para todos os tipos de contratos. 
+- [Privacidade.xyz])(https://github.com/legalclass/privacidade.xyz): Um repositório com boas práticas em privacidade e proteção de dados. 
+- [Legaldesign.xyz])(https://github.com/legalclass/legaldesign.xyz): Um repositório com boas práticas em legal design. 
+- [Visual-law.xyz])(https://github.com/legalclass/visual-law.xyz): Um repositório com boas práticas em visual law.
+- [Legaloperations.xyz])(https://github.com/legalclass/legalops.xyz): Um repositório com boas práticas em legal operations.
+
